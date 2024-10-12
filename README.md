@@ -89,14 +89,6 @@ Feel free to explore my work, projects, and experiences. Thank you for visiting,
 
 # 💼 Work Experience
 
-### 📊 Operations Specialist | Zenblen (MAY 2024 - Present)
-
-- 📈 Boosted client retention by 30% using Python, Pandas, and NumPy for advanced analytics, driving $1.2M ARR growth
-- 📊 Developed 50+ dynamic dashboards with Excel, Power BI, and Tableau for real-time KPI monitoring
-- 🤝 Collaborated cross-functionally to increase customer satisfaction by 35% through data-driven insights
-- 💹 Achieved 25% portfolio value growth via SQL analysis and RFM modeling for cross-sell/upsell
-- 🏭 Cut operational costs by 20% using XGBoost and ARIMA for predictive inventory management
-
 ### 💻 Software Engineering Intern | Open Learning Exchange (SEP 2020 - DEC 2022)
 - 🖥️ Engineered responsive front-end interfaces with Angular.js, HTML5, and JavaScript
 - 🚀 Optimized performance with Angular 6 components for future-proof framework transitions
