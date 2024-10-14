@@ -125,6 +125,15 @@ Led innovative IT solutions and machine learning projects, significantly improvi
 - ⚡ Improved team productivity by 25% through implementation of agile project management methodologies
 - 🌟 Introduced the GlobalShala initiative, combining education and technological progress
 
+### 🌐 Software Engineer | Ecobank (MAR 2021 - APR 2023)
+- 🤖 Developed and deployed advanced machine learning models using Python and the BERT LLM architecture, increasing customer engagement by 30%.
+- 📊 Engineered and optimized specialized datasets for Natural Language Processing (NLP) applications, improving model accuracy by 25%.
+- 🎨 Created a responsive user interface for a banking chatbot using Flutter, enhancing user experience and accessibility.
+- 🛡️ Developed an NLP model for detecting fraudulent insurance claims, utilizing SQL to achieve a 20% reduction in fraudulent claims.
+- 🗄️ Managed and optimized SQL databases to support machine learning applications, ensuring efficient data retrieval and storage.
+- 🚀 Spearheaded initiatives to integrate AI-driven solutions into banking services, improving operational efficiency and customer satisfaction.
+
+  
 ### Technical Skills:
 - **Languages & Tools:** Python, SQL, Java, C++, Power BI, Tableau, Excel
 - **Cloud Platforms:** AWS (S3, EC2, Lambda, SageMaker), GCP
