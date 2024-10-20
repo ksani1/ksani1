@@ -46,7 +46,7 @@ Feel free to explore my work, projects, and experiences. Thank you for visiting,
 ### 💻 Software Engineering Intern | Open Learning Exchange (SEP 2020 - DEC 2022)
 - 🖥️ Engineered responsive front-end interfaces with Angular.js, HTML5, and JavaScript
 - 🚀 Optimized performance with Angular 6 components for future-proof framework transitions
-- 🐍 Developed a Python-based management system, reducing system errors by 70% and boosting performance by 15%
+- 🐍 Developed a Python-based management system, reducing system errors by 73% and boosting performance by 13%
 - 🐳 Implemented Docker deployment and Kubernetes-driven scalability
 - 🔧 Streamlined development using GIT and NPM scripts in a Node.js environment
 - 📊 Leveraged Tableau and Power BI to deliver data-driven insights and continuous performance improvements
@@ -58,17 +58,18 @@ Feel free to explore my work, projects, and experiences. Thank you for visiting,
 - 🚀 Spearheaded cloud computing initiative using Chameleon Cloud
 - 📱 Designed mobile applications with Flutter and Dart
 
-
 ### 🖥️ IT Specialist | Romptech Scientific Supplies Co. Ltd (MAR 2021 - APR 2023)
 
 Led innovative IT solutions and machine learning projects, significantly improving system reliability and operational efficiency.
-- 🔧 Improved system reliability by 70% through innovative security measures and effective troubleshooting
-- 🤖 Developed ML pipeline for Ecobank, reducing cash flow forecasting errors by 25%
-- 📈 Created sales predictive model for Shoprite Mart, increasing accuracy by 20%
-- ☁️ Implemented ML infrastructure on Amazon SageMaker, improving model deployment efficiency by 30%
-- 🕵️ Conducted ML model trials for fraud detection, improving accuracy by 15%
-- 📊 Trained staff in data visualization tools, boosting operational efficiency by 50%
-- 🚀 Developed ETL pipelines contributing to 10% revenue growth
+- 📊 Designed, created, and implemented logical and physical data models using Erwin and ER/Studio for IT and business solutions, resulting in a 12% increase in client retention.
+- 🔧 Built and operationalized complex data solutions using Python, Pandas, and NumPy; recommended data cleansing/quality solutions with Talend and Informatica while collaborating with stakeholders to translate business requirements into effective data models.
+- 🗺️ Created entity-relationship diagrams (ERDs) and data flow diagrams using Lucidchart and Visio; utilized Tableau and Power BI to develop 58+ dynamic dashboards, improving reporting efficiency by 30%.
+- 🤝 Worked closely with database administrators and software engineers to implement and maintain data models in PostgreSQL databases, Snowflake data warehouses, and AWS data lakes; defined and governed data modeling standards using JIRA and Confluence.
+- ⚙️ Conducted performance tuning and optimization of data models using SQL, improving data access efficiency by 23%; incorporated data governance (Collibra), security (AWS IAM), and quality measures (Talend Data Quality), boosting system reliability by 8%.
+- 🤖 Leveraged machine learning libraries including Scikit-learn, TensorFlow, PyTorch, and XGBoost to develop predictive models, reducing operational costs by 20% through enhanced inventory management.
+- 🚀 Utilized big data technologies such as Apache Spark and Hadoop for processing large-scale datasets, contributing to 22% portfolio value growth.
+- 🔄 Implemented ETL pipelines and conducted A/B testing using cloud platforms, ensuring robust data infrastructure and experiment-driven decision-making.
+- 📚 Conducted user training, provided ongoing support, and maintained comprehensive documentation.
 
 ### 🌐 Project Management Intern | GlobalShala (SEP 2022 - DEC 2022)
 - 👥 Led cross-functional remote teams, delivering projects on time and within scope
@@ -76,14 +77,14 @@ Led innovative IT solutions and machine learning projects, significantly improvi
 - 🛡️ Identified and mitigated risks in large datasets, implementing preventative measures
 - 📈 Created data visualizations for market price reviews, enhancing competitive landscape understanding
 - 🚀 Spearheaded the GlobalShala initiative, integrating educational programs with technological advancements
-- ⚡ Improved team productivity by 25% through implementation of agile project management methodologies
+- ⚡ Improved team productivity by 23% through implementation of agile project management methodologies
 - 🌟 Introduced the GlobalShala initiative, combining education and technological progress
 
 ### 🌐 Software Engineer | Ecobank (MAR 2021 - APR 2023)
 - 🤖 Developed and deployed advanced machine learning models using Python and the BERT LLM architecture, increasing customer engagement by 30%.
-- 📊 Engineered and optimized specialized datasets for Natural Language Processing (NLP) applications, improving model accuracy by 25%.
+- 📊 Engineered and optimized specialized datasets for Natural Language Processing (NLP) applications, improving model accuracy by 23%.
 - 🎨 Created a responsive user interface for a banking chatbot using Flutter, enhancing user experience and accessibility.
-- 🛡️ Developed an NLP model for detecting fraudulent insurance claims, utilizing SQL to achieve a 20% reduction in fraudulent claims.
+- 🛡️ Developed an NLP model for detecting fraudulent insurance claims, utilizing SQL to achieve a 12% reduction in fraudulent claims.
 - 🗄️ Managed and optimized SQL databases to support machine learning applications, ensuring efficient data retrieval and storage.
 - 🚀 Spearheaded initiatives to integrate AI-driven solutions into banking services, improving operational efficiency and customer satisfaction.
 
