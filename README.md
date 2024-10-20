@@ -34,58 +34,12 @@ Feel free to explore my work, projects, and experiences. Thank you for visiting,
 
 </div>
 
-## 🛠️ Data Science Tools & Technologies
+## 🛠️ Software Tools & Technologies
 
-<table>
-  <tr>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40px"/>
-      <br>Python
-    </td>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" alt="R" width="40px"/>
-      <br>R
-    </td>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="Pandas" width="40px"/>
-      <br>Pandas
-    </td>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="NumPy" width="40px"/>
-      <br>NumPy
-    </td>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="40px"/>
-      <br>TensorFlow
-    </td>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" alt="PyTorch" width="40px"/>
-      <br>PyTorch
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" alt="Jupyter" width="40px"/>
-      <br>Jupyter
-    </td>
-    <td align="center">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-learn" width="40px"/>
-      <br>Scikit-learn
-    </td>
-    <td align="center">
-      <img src="https://www.vectorlogo.zone/logos/apache_spark/apache_spark-icon.svg" alt="Apache Spark" width="40px"/>
-      <br>Apache Spark
-    </td>
-    <td align="center">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="Power BI" width="40px"/>
-      <br>Power BI
-    </td>
-    <td align="center">
-      <img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" alt="Tableau" width="40px"/>
-      <br>Tableau
-    </td>
-  </tr>
-</table>
+<table> <tr> <td align="center"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40px"/> <br>JavaScript </td> <td align="center"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40px"/> <br>Python </td> <td align="center"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" alt="SQL" width="40px"/> <br>SQL </td> <td align="center"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" alt="Flutter" width="40px"/> <br>Flutter </td> <td align="center"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML" width="40px"/> <br>HTML/CSS </td> <td align="center"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/api/api-original.svg" alt="REST API" width="40px"/> <br>REST API </td> <td align="center"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" alt="AWS" width="40px"/> <br>AWS </td> </tr> </table>
+
+## 🛠️ Data Science Tools & Technologies
+<table> <tr> <td align="center"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" alt="R" width="40px"/> <br>R </td> <td align="center"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="Pandas" width="40px"/> <br>Pandas </td> <td align="center"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="NumPy" width="40px"/> <br>NumPy </td> <td align="center"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="40px"/> <br>TensorFlow </td> <td align="center"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" alt="PyTorch" width="40px"/> <br>PyTorch </td> </tr> <tr> <td align="center"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" alt="Jupyter" width="40px"/> <br>Jupyter </td> <td align="center"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-learn" width="40px"/> <br>Scikit-learn </td> <td align="center"> <img src="https://www.vectorlogo.zone/logos/apache_spark/apache_spark-icon.svg" alt="Apache Spark" width="40px"/> <br>Apache Spark </td> <td align="center"> <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="Power BI" width="40px"/> <br>Power BI </td> <td align="center"> <img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" alt="Tableau" width="40px"/> <br>Tableau </td> </tr> </table>
 
 # 💼 Work Experience
 
@@ -213,7 +167,7 @@ I excel in transforming data into visually compelling and actionable insights. W
 
 <details>
   <summary><h3>👨‍💻 Khalil's Coding Journey</h3></summary>
-  My coding journey began with a strong interest in technology and software development. I attended Informatics Academy in Singapore and IAEC University in Togo to build a solid foundation in computer science. Now, MS in Computer Science at the Illinois Institute of Technology, I am specializing in Database Systems and continually advancing my skills in software engineering and data analysis.
+  My coding journey began with a strong interest in technology and software development. I attended Informatics Academy in Singapore and IAEC University in Togo to build a solid foundation in computer science. Now, I hold MS in Computer Science at the Illinois Institute of Technology, I am specializing in Database Systems and continually advancing my skills in software engineering and data analysis.
 </details>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Ksani1&color=blueviolet&style=flat-square)
