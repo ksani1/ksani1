@@ -7,7 +7,7 @@
 
 # 👋 Welcome to my professional portfolio!
 
-I'm a Data Science professional with a Master of Science in Computer Science from Illinois Institute of Technology. I specialize in data analysis, predictive modeling, and software optimization, with a strong foundation in Python, SQL, R, and AWS services.
+I’m Khalil Sani Muhammad, a results-driven Software Engineering Intern at Open Learning Exchange and Ex. Software Engineer at Ecobank and I have a strong background in fintech industry and a passion for developing innovative technology solutions. My experience includes:
 
 ## 🚀 About Me
 
