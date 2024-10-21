@@ -58,7 +58,7 @@ Feel free to explore my work, projects, and experiences. Thank you for visiting,
 - 🚀 Spearheaded cloud computing initiative using Chameleon Cloud
 - 📱 Designed mobile applications with Flutter and Dart
 
-### 🖥️ IT Specialist | Romptech Scientific Supplies Co. Ltd (MAR 2021 - APR 2023)
+### 🖥️ IT Specialist | Romptech Scientific Supplies Company Ltd (MAR 2021 - APR 2023)
 
 Led innovative IT solutions and machine learning projects, significantly improving system reliability and operational efficiency.
 - 📊 Designed, created, and implemented logical and physical data models using Erwin and ER/Studio for IT and business solutions, resulting in a 12% increase in client retention.
