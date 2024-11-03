@@ -43,7 +43,7 @@ Feel free to explore my work, projects, and experiences. Thank you for visiting,
 
 # 💼 Work Experience
 
-### 💻 Software Engineering Intern | Open Learning Exchange (SEP 2020 - DEC 2022)
+### 💻 Software Engineering Intern | Open Learning Exchange (MAY 2024 - SEP 2024)
 - 🖥️ Engineered responsive front-end interfaces with Angular.js, HTML5, and JavaScript
 - 🚀 Optimized performance with Angular 6 components for future-proof framework transitions
 - 🐍 Developed a Python-based management system, reducing system errors by 73% and boosting performance by 13%
