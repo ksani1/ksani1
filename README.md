@@ -64,6 +64,12 @@ Led innovative IT solutions and machine learning projects, significantly improvi
 - 🔄 Implemented ETL pipelines and conducted A/B testing using cloud platforms, ensuring robust data infrastructure and experiment-driven decision-making.
 - 📚 Conducted user training, provided ongoing support, and maintained comprehensive documentation.
 
+### 🌐 Data Analytics Intern | GlobalShala (SEP 2022 - DEC 2022)
+- 🚀 Configured and optimized AWS infrastructure by provisioning EC2 nodes for Hadoop clusters to transfer data between Amazon S3 and HDFS.
+- 📊 Designed and developed AWS Glue ETL jobs using PySpark and Python to automate data ingestion, transformation, and loading into AWS data lake, implementing data cleansing and validation.
+- 👥 Led infrastructure automation using Terraform and CI/ CD pipelines (Jenkins, GitLab) for provisioning and deployment of AWS resources, including EC2, EMR, Redshift, and Athena. 
+- ⚡ Developed and maintained AWS Glue workflows to orchestrate ETL jobs and ensured data accuracy through validation and optimization techniques.
+
 ### 🌐 Project Management Intern | GlobalShala (SEP 2022 - DEC 2022)
 - 👥 Led cross-functional remote teams, delivering projects on time and within scope
 - 📊 Analyzed complex data sets, generating actionable insights for strategic decision-making
