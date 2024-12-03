@@ -51,13 +51,6 @@ Feel free to explore my work, projects, and experiences. Thank you for visiting,
 - 🔧 Streamlined development using GIT and NPM scripts in a Node.js environment
 - 📊 Leveraged Tableau and Power BI to deliver data-driven insights and continuous performance improvements
 
-### 🎓 Career Break | Illinois Institute of Technology (AUG 2023 - MAY 2024)
-- 🛠️ Managed software projects using MS Project
-- 🤖 Developed AI agent for project management using deep learning and GPT-4 mini
-- ☁️ Led parallel computing tasks with AWS EC2, S3, and Hadoop
-- 🚀 Spearheaded cloud computing initiative using Chameleon Cloud
-- 📱 Designed mobile applications with Flutter and Dart
-
 ### 🖥️ IT Specialist | Romptech Scientific Supplies Company Ltd (MAR 2021 - APR 2023)
 
 Led innovative IT solutions and machine learning projects, significantly improving system reliability and operational efficiency.
@@ -79,14 +72,6 @@ Led innovative IT solutions and machine learning projects, significantly improvi
 - 🚀 Spearheaded the GlobalShala initiative, integrating educational programs with technological advancements
 - ⚡ Improved team productivity by 23% through implementation of agile project management methodologies
 - 🌟 Introduced the GlobalShala initiative, combining education and technological progress
-
-### 🌐 Software Engineer | Ecobank (MAR 2021 - APR 2023)
-- 🤖 Developed and deployed advanced machine learning models using Python and the BERT LLM architecture, increasing customer engagement by 30%.
-- 📊 Engineered and optimized specialized datasets for Natural Language Processing (NLP) applications, improving model accuracy by 23%.
-- 🎨 Created a responsive user interface for a banking chatbot using Flutter, enhancing user experience and accessibility.
-- 🛡️ Developed an NLP model for detecting fraudulent insurance claims, utilizing SQL to achieve a 12% reduction in fraudulent claims.
-- 🗄️ Managed and optimized SQL databases to support machine learning applications, ensuring efficient data retrieval and storage.
-- 🚀 Spearheaded initiatives to integrate AI-driven solutions into banking services, improving operational efficiency and customer satisfaction.
 
   
 ### Technical Skills:
