@@ -7,7 +7,7 @@
 
 # 👋 Welcome to my professional portfolio!
 
-I’m Khalil Sani Muhammad, a results-driven Software Engineering Intern at Open Learning Exchange and Ex. Software Engineer at Ecobank and I have a strong background in fintech industry and a passion for developing innovative technology solutions. 
+I’m Khalil Sani Muhammad, a results-driven Software Engineering Intern at Open Learning Exchange and Ex. Information Technology Specialist at Romptech and I'm have passion for developing innovative technology solutions. 
 
 ## 🚀 About Me
 
